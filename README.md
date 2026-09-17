@@ -5,7 +5,7 @@ I like building small tools that fix something that actually annoys me.
 
 ## what I'm working on
 
-- [cleartorun](https://github.com/swifs1/cleartorun) – checks that a project has everything it needs before you try to run it
+- [cleartorun](https://github.com/swifs1/cleartorun) - checks that a project has everything it needs before you try to run it
 
 ## learning right now
 
